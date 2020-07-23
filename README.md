@@ -1,1 +1,1 @@
-"# NumberClassifier-MNIST" 
+# NumberClassifier-MNIST
